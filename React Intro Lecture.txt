@@ -1,0 +1,43 @@
+Prep
+- Practice Problems
+- Practice Theory + Do Drawings + Pictures
+
+Lecture
+- React Intro "Drawing" + "Website" (Theory)
+- React Js (Practice)
+- React JSX (Practice & Theory)
+- Create React App (Practice & Theory)
+- React SayHello.jsx "Props" (Practice)
+- React Counter.jsx "State" (Practice)
+- React ToDo.jsx "State & Props" (Practice) 
+
+
+Side Notes
+
+React Intro 
+
+- React Reason is components (show website and reuse content)
+- Show framework marketshare with creators
+- Reason why React over others (marketshare, popularity, easy)
+
+JSX Rules
+- People were looking for a way to make it look like HTML
+- only root element allowed 
+- Multi line JSX parentese
+- Run JSX in curly braces
+- Attributes are slightly different in JSX
+
+Create React App
+- Expalin why better (live reload, good debugging, new way, normal library like express.....)
+- Look at the file (Calm down its ok, Read.Me, package.json, gitignore, node_modules, index.html, src)
+- Get rid of things in src
+- Components/Hello World
+
+SayHello 
+- show node function first
+- show Component version pass 1 props
+- pass 2 props
+
+Counter
+- practice with variable "rendering"
+- replace variable with state
