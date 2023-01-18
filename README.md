@@ -1,6 +1,6 @@
 # Lighthouse Labs | React Fundamentals
 
-[GitHub Repository Branch](https://github.com/SakhiaKwemo/React-Intro-Lecture) | [Vimeo Video Recording](vimeo.com/user147384195/)
+[GitHub Repository Branch](https://github.com/SakhiaKwemo/React-Intro-Lecture) | [Vimeo Video Recording](https://vimeo.com/790475423/dfbce8d14c)
 
 * [x] React—what is it, and why use it?
 * [x] JSX (JavaScript XML)
