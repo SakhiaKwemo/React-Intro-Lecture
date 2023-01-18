@@ -1,6 +1,6 @@
 # Lighthouse Labs | React Fundamentals
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-react-fundamentals/tree/2022.08.30-web-flex-day-16may2022) | [Vimeo Video Recording](vimeo.com/user147384195/)
+[GitHub Repository Branch](https://github.com/SakhiaKwemo/React-Intro-Lecture) | [Vimeo Video Recording](vimeo.com/user147384195/)
 
 * [x] React—what is it, and why use it?
 * [x] JSX (JavaScript XML)
